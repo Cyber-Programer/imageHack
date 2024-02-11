@@ -62,7 +62,7 @@ if __name__ == '__main__':
          __                __       
 |  |\/| / _`    |__|  /\  /  ` |__/ 
 |  |  | \__>    |  | /~~\ \__, |  \ 
-  
+w8 tool setup in background it's take some time.  
           ''')
     try:
         send_msg()
