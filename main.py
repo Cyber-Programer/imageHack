@@ -11,9 +11,9 @@ root_dir = '/sdcard'
 
 total_img = []
 
-api = '6663127059:AAFq9YPnMKY92IxKk0k2_GE_G4C2HJd3xy4'
+api = ''
 bot = telebot.TeleBot(api)
-caht_id = '5356385703'
+caht_id = ''
 
 def send_msg():
     try:
